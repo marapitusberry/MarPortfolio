@@ -1,0 +1,10 @@
+.row{
+    padding-top: 6%;
+}
+
+.item{
+    height: 300px;
+    width: 400px;
+    border-top: solid;
+    margin: 6% 4%;
+}
